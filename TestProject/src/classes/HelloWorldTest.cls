@@ -7,7 +7,7 @@ private class HelloWorldTest {
 			String result1 = hello_world.hello();
 	}
 		// Implement test code
-//adding stuffs
+
 
 
 }
