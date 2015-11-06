@@ -1,0 +1,32 @@
+{
+    "HelloWorld.cls": {
+        "createdById": "0052800000115A4AAI",
+        "createdByName": "Guan Tay",
+        "createdDate": "2015-11-06T01:02:30.000Z",
+        "fileName": "unpackaged/classes/HelloWorld.cls",
+        "fullName": "HelloWorld",
+        "id": "01p28000004LzEGAA0",
+        "lastModifiedById": "0052800000115A4AAI",
+        "lastModifiedByName": "Guan Tay",
+        "lastModifiedDate": "2015-11-06T01:19:03.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
+    },
+    "HelloWorldTest.cls": {
+        "id": "01p28000004LzELAA0",
+        "name": "HelloWorldTest",
+        "createdDate": "2015-11-06T01:04:35.000+0000",
+        "createdById": "0052800000115A4AAI",
+        "namespacePrefix": null,
+        "lastModifiedById": "0052800000115A4AAI",
+        "lastModifiedDate": "2015-11-06T01:23:49.000+0000",
+        "fullName": "HelloWorldTest",
+        "fileName": "unpackaged/classes/HelloWorldTest.cls",
+        "createdByName": "Guan Tay",
+        "lastModifiedByName": "Guan Tay",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
+    }
+}

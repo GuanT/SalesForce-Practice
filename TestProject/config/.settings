@@ -1,0 +1,16 @@
+{
+    "projectName": "TestProject",
+    "username": "gtay060@aucklanduni.ac.nz",
+    "id": "e931a440-8421-11e5-b000-8564764e8540",
+    "namespace": "",
+    "environment": "production",
+    "loginUrl": "https://login.salesforce.com/",
+    "workspace": "C:\\Users\\Guan Tay\\Desktop\\Salesforce_MavensMate",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}

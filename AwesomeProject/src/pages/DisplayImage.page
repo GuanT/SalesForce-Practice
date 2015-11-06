@@ -1,0 +1,8 @@
+<apex:page sidebar="false" showHeader="false">
+    <h1>
+        Hello World!
+    </h1>
+    
+    <apex:image value="https://developer.salesforce.com/files/salesforce-developer-network-logo.png"/>
+    
+</apex:page>
