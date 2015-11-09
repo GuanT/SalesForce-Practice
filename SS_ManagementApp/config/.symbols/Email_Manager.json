@@ -1,0 +1,114 @@
+{
+    "constructors": [],
+    "externalReferences": [],
+    "id": "01p28000004MG3EAAW",
+    "innerClasses": [],
+    "interfaces": [],
+    "key": "01p28000004MG3EAAW",
+    "methods": [
+        {
+            "annotations": [],
+            "location": {
+                "column": 21,
+                "line": 2
+            },
+            "modifiers": [
+                "static",
+                "public"
+            ],
+            "name": "sendMail",
+            "parameters": [
+                {
+                    "name": "address",
+                    "type": "String"
+                },
+                {
+                    "name": "subject",
+                    "type": "String"
+                },
+                {
+                    "name": "body",
+                    "type": "String"
+                }
+            ],
+            "references": [],
+            "returnType": "void",
+            "type": null
+        }
+    ],
+    "name": "Email_Manager",
+    "namespace": null,
+    "parentClass": "",
+    "properties": [],
+    "tableDeclaration": {
+        "annotations": [],
+        "location": {
+            "column": 27,
+            "line": 1
+        },
+        "modifiers": [
+            "public",
+            "with sharing"
+        ],
+        "name": "Email_Manager",
+        "references": [],
+        "type": "Email_Manager"
+    },
+    "variables": [
+        {
+            "annotations": [],
+            "location": {
+                "column": 37,
+                "line": 2
+            },
+            "modifiers": [],
+            "name": "address",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 53,
+                "line": 2
+            },
+            "modifiers": [],
+            "name": "subject",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 69,
+                "line": 2
+            },
+            "modifiers": [],
+            "name": "body",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 34,
+                "line": 3
+            },
+            "modifiers": [],
+            "name": "mail",
+            "references": [],
+            "type": "SingleEmailMessage"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 14,
+                "line": 4
+            },
+            "modifiers": [],
+            "name": "toAddresses",
+            "references": [],
+            "type": "LIST"
+        }
+    ]
+}

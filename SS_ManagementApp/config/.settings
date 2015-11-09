@@ -1,0 +1,16 @@
+{
+    "projectName": "SS_ManagementApp",
+    "username": "gtay060@aucklanduni.ac.nz",
+    "id": "26f19d30-865c-11e5-91e5-f3f7e1067c0a",
+    "namespace": "",
+    "environment": "production",
+    "loginUrl": "https://login.salesforce.com/",
+    "workspace": "C:\\Users\\Guan Tay\\Desktop\\Salesforce_MavensMate",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}

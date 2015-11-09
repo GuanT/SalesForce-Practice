@@ -1,0 +1,48 @@
+{
+    "EmailManager.cls": {
+        "createdById": "0052800000115A4AAI",
+        "createdByName": "Guan Tay",
+        "createdDate": "2015-11-02T22:25:39.000Z",
+        "fileName": "unpackaged/classes/EmailManager.cls",
+        "fullName": "EmailManager",
+        "id": "01p28000004LJgsAAG",
+        "lastModifiedById": "0052800000115A4AAI",
+        "lastModifiedByName": "Guan Tay",
+        "lastModifiedDate": "2015-11-08T21:55:23.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
+    },
+    "Email_Manager.cls": {
+        "id": "01p28000004MG3EAAW",
+        "name": "Email_Manager",
+        "createdDate": "2015-11-08T21:06:41.000+0000",
+        "createdById": "0052800000115A4AAI",
+        "namespacePrefix": null,
+        "lastModifiedById": "0052800000115A4AAI",
+        "lastModifiedDate": "2015-11-08T22:56:00.000+0000",
+        "fullName": "Email_Manager",
+        "fileName": "unpackaged/classes/Email_Manager.cls",
+        "createdByName": "Guan Tay",
+        "lastModifiedByName": "Guan Tay",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
+    },
+    "SendConfirmationEmailv1.trigger": {
+        "id": "01q280000009ydiAAA",
+        "name": "SendConfirmationEmailv1",
+        "createdDate": "2015-11-09T01:49:51.000+0000",
+        "createdById": "0052800000115A4AAI",
+        "namespacePrefix": null,
+        "lastModifiedById": "0052800000115A4AAI",
+        "lastModifiedDate": "2015-11-09T03:48:23.000+0000",
+        "fullName": "SendConfirmationEmailv1",
+        "fileName": "unpackaged/triggers/SendConfirmationEmailv1.trigger",
+        "createdByName": "Guan Tay",
+        "lastModifiedByName": "Guan Tay",
+        "manageableState": "unmanaged",
+        "type": "ApexTrigger",
+        "mmState": "clean"
+    }
+}
